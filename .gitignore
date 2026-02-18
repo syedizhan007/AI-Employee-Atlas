@@ -1,0 +1,15 @@
+# Obsidian workspace (user-specific)
+.obsidian/workspace.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+This is a test task to verify the file watcher is working correctly.
+
+Task: Test the automated file movement system.
+Priority: Low
+Created: 2026-02-18
